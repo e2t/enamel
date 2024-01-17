@@ -1,4 +1,6 @@
-﻿# Enamel
+This project has been moved to https://codeberg.org/e2t/enamel
+ 
+ # Enamel
 Макрос для расчета грунта и эмали по модели SolidWorks.
 
 ### Зависимости
